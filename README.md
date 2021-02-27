@@ -25,3 +25,7 @@ Once the above setup done then do the following
 
 #Once the Environment and application is ready then we can use the AWS CodePipeline for CI/CD I am going to paste the Image, how I done"  
 
+
+![AWSCI-CD-Pipeline](https://user-images.githubusercontent.com/44436335/109392978-1a89b680-7941-11eb-9d0b-1a0dfe692224.png)
+
+
