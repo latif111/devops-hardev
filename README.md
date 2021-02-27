@@ -23,4 +23,5 @@ Once the above setup done then do the following
 4. ./script.sh
 
 
+#Once the Environment and application is ready then we can use the AWS CodePipeline for CI/CD I am going to paste the Image, how I done"  
 
